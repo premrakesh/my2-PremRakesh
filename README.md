@@ -15,3 +15,5 @@ ___
     * poke
     * laula
 * seafood
+
+[link to MyStats.md](MyStats.md)
