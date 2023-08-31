@@ -10,3 +10,8 @@ ___
 2. Relax
 3. Beach volley
 4. Scuba dive
+### Food(Unordered list)
+* Hawaian delicacies
+    * poke
+    * laula
+* seafood
