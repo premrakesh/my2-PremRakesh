@@ -17,3 +17,12 @@ ___
 * seafood
 
 [link to MyStats.md](MyStats.md)
+___
+### Tables
+The below table has to be followed by the students inorder to maintain proper fitness and overcome fatigue.
+| Name of the sport | Reason | Hours in a week |
+| --- | --- | ---: |
+| Run | Helps Build Stamina | 4 |
+| Pushups | Builds upper body and arms | 3 |
+| Tennis | Arms, Stamina and concentration | 7 |
+| Cycling | Builds lower body | 7 |
