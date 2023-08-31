@@ -1,1 +1,6 @@
 # my2-PremRakesh
+# Alasakani Prem Rakesh
+###### Hawaii
+Hawaii is famous for its **Beaches**</br>
+The Resorts provide a lot of options for **Relax and chill**
+The Hawaian **climate** and **locations** makes it a tourist attraction
