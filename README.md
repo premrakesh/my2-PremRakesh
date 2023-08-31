@@ -26,3 +26,7 @@ The below table has to be followed by the students inorder to maintain proper fi
 | Pushups | Builds upper body and arms | 3 |
 | Tennis | Arms, Stamina and concentration | 7 |
 | Cycling | Builds lower body | 7 |
+___
+### Quotes
+>"Two things are infinite: the universe and human stupidity; and I'm not sure about the universe. "- *Albert Einstein*
+>"There is no law except the law that there is no law." - *John Archibald Wheeler*
