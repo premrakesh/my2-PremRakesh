@@ -4,9 +4,9 @@
 Hawaii is famous for its **Beaches**</br>
 The Resorts provide a lot of options for **Relax and chill**
 The Hawaian **climate** and **locations** makes it a tourist attraction
----
+___
 ### Activities(ordered list)
-1 Swim
-2 Relax
-3 Beach volley
-4 Scuba dive
+1. Swim
+2. Relax
+3. Beach volley
+4. Scuba dive
